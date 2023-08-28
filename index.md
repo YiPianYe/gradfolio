@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: about
 permalink: /
 profile:
   align: right
