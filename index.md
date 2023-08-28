@@ -13,4 +13,4 @@ published: true
 
 **WeChat; QingHongJiao**
 
-Email: HelloWorld[at]email.com
+Email: HelloWorld[at]email.cn
