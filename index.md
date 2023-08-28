@@ -7,15 +7,49 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+# 护眼色css代码
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+> 近年来，越来越多的人开始关注眼睛健康，在使用电脑时要注意保护眼睛。
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+> 除了调整屏幕亮度和适当休息外，
 
-PS: If you liked the theme, do star it on GitHub!
+> 选择一种护眼色作为CSS代码也是一种方法。
 
-### Also, check out:
+> 下面介绍一些常用的护眼色CSS代码。
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+```css
+body {
+background-color: #f8efe8; //米黄色背景
+color: #515151; //深灰色文字
+}
+```
+
+**米黄色背景和深灰色文字组合，让人感觉温暖、柔和，有助于缓解眼睛疲劳。**
+
+```css
+body {
+background-color: #e8f6f3; //淡蓝色背景
+color: #333; //黑色文字
+}
+```
+
+**淡蓝色背景和黑色文字组合，看起来清新舒适，可以有效减轻眼睛的疲劳。**
+
+```css
+body {
+background-color: #fffbf0; //浅黄色背景
+color: #333; //黑色文字
+}
+```
+
+**浅黄色背景和黑色文字组合看起来舒适，不容易造成视觉疲劳。**
+
+```css
+body {
+background-color: #f1f1f1; //浅灰色背景
+color: #222; //深色文字
+}
+```
+**浅灰色背景和深色文字组合，清晰明了，易于看清页面的内容。**
+
+当然，每个人的视觉习惯和感受都不同，以上护眼色CSS代码只是提供了一些参考，您可以根据自己的需求进行调整。
